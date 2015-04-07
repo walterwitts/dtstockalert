@@ -1,0 +1,1 @@
+This is the system to send out the alert (smart phone Push notice & email) for the specified criteria. It is mainly for the Singapore investors. The main data source is from Google/Yahoo finance and exchange website.
